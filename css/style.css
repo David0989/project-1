@@ -258,7 +258,7 @@
 .circle {
   width: 60px;
   height: 60px;
-  background-color: yellow;
+  background-color:rgb(255, 187, 0);
   border-radius: 50%;
   display: flex;
   align-items: center;
@@ -284,6 +284,7 @@
 .list{
   color: black;
   margin-left: 50px;
+  
 
 }
 .list h1 {
@@ -309,6 +310,7 @@ ol.no-bullets {
   text-align: center;
   vertical-align: middle;
   margin-right: 5px;
+  padding-bottom: 20px;
 }
 
 .passed {
@@ -321,6 +323,28 @@ ol.no-bullets {
   background-position: center;
   background-repeat: no-repeat;
   justify-content: right;
+}
+.form-group h3 {
+  text-align: center;
+  color: #ffffff;
+}
+.form-group p{
+  text-align: center;
+  color: #ffffff;
+}
+.custom-btn {
+  width: 300px;
+  padding: 15px; 
+}
+.whatsapp-icon img {
+  width: 63px !important;
+  margin-left: 120px;
+
+}
+.livechat-icon img{
+  width: 63px !important;
+  margin-left: 120px;
+  color: #ffffff;
 }
 
 
